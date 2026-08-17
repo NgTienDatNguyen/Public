@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "Artificial Intelligence",
+    "growth_rate_percent": 45,
+    "entry_level_roles": ["AI Prompt Engineer", "Data Analyst"],
+    "learning_difficulty": "High"
+  },
+  {
+    "domain": "Cybersecurity",
+    "growth_rate_percent": 32,
+    "entry_level_roles": ["Security SOC Analyst", "Penetration Tester"],
+    "learning_difficulty": "Medium"
+  },
+  {
+    "domain": "Cloud Computing",
+    "growth_rate_percent": 28,
+    "entry_level_roles": ["Cloud Support Engineer", "DevOps Junior"],
+    "learning_difficulty": "Medium"
+  }
+]
